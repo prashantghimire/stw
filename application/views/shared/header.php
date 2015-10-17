@@ -20,12 +20,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand name" href="#"><?= img('lib/images/logo.png') ?> <span>STW</span> <i class="glyphicon glyphicon-chevron-down"></i></a>
+                <a class="navbar-brand name" href="/"><?= img('lib/images/logo.png') ?> <span>STW</span> <i class="glyphicon glyphicon-chevron-down"></i></a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-6">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Apps</a></li>
+                    <li><a href="#">Apps</a></li>
                     <li><a href="#">Gear</a></li>
                     <li><a href="#">Tech</a></li>
                     <li><a href="#">Creative</a></li>

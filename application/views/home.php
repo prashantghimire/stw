@@ -23,10 +23,11 @@
 
 
 <div class="row thumb-posts">
+    <h2 class="h-title">Latest posts</h2>
     <div class="col-md-2">
         <div class="thumbnail">
             <img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/10/Screen-Shot-2015-10-09-at-8.32.22-PM-520x296.png" alt="">
-            <div class="caption"><p>I love you baby, hehe!</p></div>
+            <div class="caption"><p><a href="posts/lopu">I love you baby, hehe!</a></p></div>
         </div>
     </div>
     <div class="col-md-2">
@@ -63,9 +64,4 @@
             <div class="caption"><p>I love you baby, hehe!</p></div>
         </div>
     </div>
-
-
-
-
-
 </div>
